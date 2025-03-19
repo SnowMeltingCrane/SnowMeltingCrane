@@ -24,8 +24,8 @@
 
 ### 💞 我的社交统计
 
-[![GitHub统计](https://stats.justsong.cn/api/github?username=SnowMeltingCrane&lang=zh-CN)](https://github.com/SnowMeltingCrane)
-[![B站统计](https://stats.justsong.cn/api/bilibili/?id=100827230&lang=zh-CN)](https://space.bilibili.com/100827230)
+[![GitHub统计](https://stats.justsong.cn/api/github?username=SnowMeltingCrane&lang=zh-CN&theme=dark)](https://github.com/SnowMeltingCrane)
+[![B站统计](https://stats.justsong.cn/api/bilibili/?id=100827230&lang=zh-CN&theme=dark)](https://space.bilibili.com/100827230)
 <br>
 
 ### 🔥 GitHub 活跃度
