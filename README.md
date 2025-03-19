@@ -1,20 +1,42 @@
-<img align="right" src="https://count.getloli.com/get/@:SnowMeltingCrane?theme=rule34">
+<p align="center">
+  <h1 align="center"><a href="https://github.com/SnowMeltingCrane">✨ 雪融鹤 GitHub 首页</a></h1>
+</p>
 
-<!--
-**SnowMeltingCrane/SnowMeltingCrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=大家好，我是雪融鹤;欢迎来到我的 GitHub!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=blue"/>
+  <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow"/>
+  <a href="https://space.bilibili.com/337439992"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink"/></a>
+  <a href="https://mp.weixin.qq.com/s/NfkT7BvdkNDLCcbmyl0AMg
+"><img src="https://img.shields.io/static/v1?label=Blog&message=WeChat&color=green"/></a>
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://moe-counter.glitch.me/get/@:SnowMeltingCrane?theme=rule34">
 
-## 今年汇总 ✨
+## 🧸 编程小白
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=SnowMeltingCrane&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowMeltingCrane&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+热爱前端、后端、热爱技术。<br>喜欢参与一些开源项目的讨论。
+<br>
+
+### 💞 我的社交统计
+
+[![GitHub统计](https://stats.justsong.cn/api/github?username=SnowMeltingCrane&theme=dark&lang=zh-CN)](https://github.com/SnowMeltingCrane)
+[![B站统计](https://stats.justsong.cn/api/bilibili/?id=100827230&theme=dark&lang=zh-CN)](https://space.bilibili.com/100827230)
+<br>
+
+### 🔥 GitHub 活跃度
+
+![SnowMeltingCrane's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowMeltingCrane&custom_title=雪融鹤的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowMeltingCrane&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![](https://github-readme-activity-graph.vercel.app/graph?username=SnowMeltingCrane&theme=dracula&custom_title=雪融鹤的心电图&radius=10)
+<br>
+
+<details>
+  <summary><strong style="color:#e96443;">👀[点击展开] 赞赏支持 </strong></summary>
+  <img align="center" src="img/微信.jpg" alt="微信赞赏" width="30%">
+  <img align="center" src="img/支付宝.jpg" alt="支付宝赞赏" width="30%">
+</details>
