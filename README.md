@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=SnowMeltingCrane&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![SnowMeltingCrane's github stats](https://github-readme-stats.vercel.app/api?username=SnowMeltingCrane&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowMeltingCrane&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowMeltingCrane&layout=compact&langs_count=6)
