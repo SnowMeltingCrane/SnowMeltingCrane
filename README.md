@@ -1,4 +1,4 @@
-## Hi there 👋
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
 <!--
 **SnowMeltingCrane/SnowMeltingCrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
